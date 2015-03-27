@@ -1,0 +1,34 @@
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\bin\Debug\150306.exe
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\bin\Debug\150306.pdb
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\obj\x86\Debug\MainWindow.baml
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\obj\x86\Debug\App.g.cs
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\obj\x86\Debug\150306_MarkupCompile.cache
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\obj\x86\Debug\150306.g.resources
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\obj\x86\Debug\_150306.Properties.Resources.resources
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\obj\x86\Debug\150306.csproj.GenerateResource.Cache
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\obj\x86\Debug\150306.exe
+C:\Users\CSIE\AppData\Local\Temporary Projects\150306\obj\x86\Debug\150306.pdb
+C:\Users\CSIE\Desktop\150306\150306\obj\x86\Debug\150306.exe
+C:\Users\CSIE\Desktop\150306\150306\obj\x86\Debug\150306.pdb
+C:\Users\CSIE\Desktop\150306\150306\bin\Debug\150306.exe
+C:\Users\CSIE\Desktop\150306\150306\bin\Debug\150306.pdb
+C:\Users\CSIE\Desktop\150306\150306\obj\x86\Debug\MainWindow.baml
+C:\Users\CSIE\Desktop\150306\150306\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CSIE\Desktop\150306\150306\obj\x86\Debug\App.g.cs
+C:\Users\CSIE\Desktop\150306\150306\obj\x86\Debug\150306_MarkupCompile.cache
+C:\Users\CSIE\Desktop\150306\150306\obj\x86\Debug\150306.g.resources
+C:\Users\CSIE\Desktop\150306\150306\obj\x86\Debug\_150306.Properties.Resources.resources
+C:\Users\CSIE\Desktop\150306\150306\obj\x86\Debug\150306.csproj.GenerateResource.Cache
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\obj\x86\Debug\150306.exe
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\obj\x86\Debug\150306.pdb
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\bin\Debug\150306.exe
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\bin\Debug\150306.pdb
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\obj\x86\Debug\150306.csprojResolveAssemblyReference.cache
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\obj\x86\Debug\MainWindow.baml
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\obj\x86\Debug\MainWindow.g.cs
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\obj\x86\Debug\App.g.cs
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\obj\x86\Debug\150306_MarkupCompile.cache
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\obj\x86\Debug\150306.g.resources
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\obj\x86\Debug\_150306.Properties.Resources.resources
+C:\Users\CSIE\Desktop\彩色影像深度150320\150306\obj\x86\Debug\150306.csproj.GenerateResource.Cache
